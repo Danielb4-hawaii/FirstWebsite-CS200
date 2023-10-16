@@ -1,0 +1,18 @@
+.Example1 {
+    display: flex;
+    margin-left: 2.5%;
+}
+
+.Example1 img {
+    margin-left: 5%;
+}
+
+.Example2 {
+    display: flex;
+    margin-left: 2.5%;
+    margin-top: 5%;
+}
+
+.Example2 img {
+    margin-left: 5%;
+}

@@ -1,0 +1,17 @@
+.Example1 {
+    text-align: center;
+    align-self: center;
+    margin-top: 5%;
+}
+
+.Example2 {
+    align-self: center;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.Example3 {
+    align-self: center;
+    text-align: center;
+    margin-top: 10%;
+}
